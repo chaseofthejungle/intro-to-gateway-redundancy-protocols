@@ -45,4 +45,6 @@
 
 ## 6. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[Official Cisco Documentation on HSRP](https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/9234-hsrpguidetoc.html)*
+* *[Official Cisco Documentation on VRRP](https://www.cisco.com/c/en/us/support/docs/security/vpn-3000-series-concentrators/7210-vrrp.html)*
+* *[Official Cisco Documentation on GLBP](https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html)*
