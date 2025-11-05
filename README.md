@@ -43,6 +43,7 @@
 | :---: | :---: | :---: | :---: | 
 | Developer/Ownership | Cisco Proprietary | Open-Standard (Defined by Internet Engineering Task Force (IETF))| Cisco Proprietary |
 | What It Does | | | |
+| RFC | [2281](https://datatracker.ietf.org/doc/html/rfc2281) | [2338](https://www.rfc-editor.org/rfc/rfc2338.html) (with others for more recent versions) | N/A |
 
 <hr />
 
