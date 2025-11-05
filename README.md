@@ -1,6 +1,6 @@
 # Intro to Gateway Redundancy Protocols Overview Guide
 
-**TODO:** A brief introductory guide to gateway redundancy protocols and their merits.
+**Description/Overview:** *Gateway redundancy* is an essential implementation for network reliability: it provides continuous network availability as a result of having (potentially multiple) alternative/backup gateways configured in the event of failure. These gateways are automatically chosen to transmit data in the event of the primary gateways failing, which keeps connectivity active between internal and external network segments.
 
 #### Table of Contents
 
