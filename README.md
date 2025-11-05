@@ -41,8 +41,7 @@
 
 | Characteristic | Hot Standby Router Protocol (HSRP) | Virtual Router Redundancy Protocol (VRRP) | Gateway Load Balancing Protocol (GLBP) |
 | :---: | :---: | :---: | :---: | 
-| Developer | | | |
-| Ownership Model | | | |
+| Developer/Ownership | Cisco Proprietary | Open-Standard (Defined by Internet Engineering Task Force (IETF))| Cisco Proprietary |
 | What It Does | | | |
 
 <hr />
