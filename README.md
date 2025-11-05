@@ -39,7 +39,11 @@
 
 ## 5. <a name="comparison">Redundancy Protocols Comparison Table</a>
 
-(TODO)
+| Characteristic | Hot Standby Router Protocol (HSRP) | Virtual Router Redundancy Protocol (VRRP) | Gateway Load Balancing Protocol (GLBP) |
+| :---: | :---: | :---: | :---: | 
+| Developer | | | |
+| Ownership Model | | | |
+| What It Does | | | |
 
 <hr />
 
