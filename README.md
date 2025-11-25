@@ -42,7 +42,7 @@
 | Characteristic | Hot Standby Router Protocol (HSRP) | Virtual Router Redundancy Protocol (VRRP) | Gateway Load Balancing Protocol (GLBP) |
 | :---: | :---: | :---: | :---: | 
 | Developer/Ownership | Cisco Proprietary | Open-Standard (Defined by Internet Engineering Task Force (IETF))| Cisco Proprietary |
-| What It Does | | | |
+| What It Does | Enables several layer-three switches or routers to show up as belonging to one gateway IP address (or virtual router). | Declares a virtual router in which a single elected router serves as the 'master', with other routers serving as backups. | Enables the concurrent usage and automatic selecting of more than one available gateway router, therefore also providing load balancing. |
 | Failover | In the event that the active router fails, the next-highest priority standby router automatically becomes the active router. | If the master router fails, then the highest priority backup router automatically becomes the master router. | If an Active Virtual Forwarder (AVF) fails, then the Active Virtual Gateway (AVG) will automatically redirect traffic toward the still-functional AVFs. |
 | RFC | [2281](https://datatracker.ietf.org/doc/html/rfc2281) | [2338](https://www.rfc-editor.org/rfc/rfc2338.html) (with others for more recent versions) | N/A |
 
